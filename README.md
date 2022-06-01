@@ -12,7 +12,7 @@
 <p align="center"> O objetivo era construir uma aplicação web front-end que mostre notícias, curiosidades do mundo agro e um jogo básico de jogo da velha</p>
 
 <h2 id="link"> Link Surge - link para visualização do site</h2>
- <a href="imminent-burn.surge.sh">Link - imminent-burn.surge.sh</a>
+ <a href="imminent-burn.surge.sh">Link </a><a>- imminent-burn.surge.sh</a>
 
  <h2 id="funciona">O que funciona</h2>
 
